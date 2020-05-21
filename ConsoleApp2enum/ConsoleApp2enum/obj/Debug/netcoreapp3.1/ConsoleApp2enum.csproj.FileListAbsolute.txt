@@ -10,3 +10,4 @@ D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum
 D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum.dll
 D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum.pdb
 D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum.genruntimeconfig.cache
+D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum.csprojAssemblyReference.cache

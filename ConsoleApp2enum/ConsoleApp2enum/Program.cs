@@ -13,6 +13,10 @@ namespace ConsoleApp2enum
         static int Main(string[] args)
         {
             WriteGreeting(TimeOfDay.Morning);
+            TimeOfDay time = TimeOfDay.Afternoon;
+            Console.WriteLine(time.ToString());
+            TimeOfDay time2 = (TimeOfDay)Enum.Parse(typeof(TimeOfDay), "afternoon", true);
+            Console.WriteLine((int)time2);
             return 0;
         }
         static void WriteGreeting(TimeOfDay timeOfDay)
