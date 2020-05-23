@@ -1,0 +1,13 @@
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\bin\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.exe
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\bin\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.deps.json
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\bin\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.runtimeconfig.json
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\bin\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.runtimeconfig.dev.json
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\bin\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.dll
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\bin\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.pdb
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\obj\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.csprojAssemblyReference.cache
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\obj\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.AssemblyInfoInputs.cache
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\obj\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.AssemblyInfo.cs
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\obj\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.csproj.CoreCompileInputs.cache
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\obj\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.dll
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\obj\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.pdb
+D:\Users\wxf\source\repos\ConsoleApp1Console.ReadLine\ConsoleApp1Console.ReadLine\obj\Debug\netcoreapp3.1\ConsoleApp1Console.ReadLine.genruntimeconfig.cache
