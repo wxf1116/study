@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/9NzsiokwuURe+kb9XD/aaEmRVn2JIqcQIWScJkqcFQ4qjhzKi0cYf6W6p9Fq9Rw4cVW05Oum7hfJMBWmgVDA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\wxf\\source\\repos\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wxf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
