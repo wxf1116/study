@@ -1,0 +1,13 @@
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\bin\Debug\netcoreapp3.1\ConsoleApp2sa.exe
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\bin\Debug\netcoreapp3.1\ConsoleApp2sa.deps.json
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\bin\Debug\netcoreapp3.1\ConsoleApp2sa.runtimeconfig.json
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\bin\Debug\netcoreapp3.1\ConsoleApp2sa.runtimeconfig.dev.json
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\bin\Debug\netcoreapp3.1\ConsoleApp2sa.dll
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\bin\Debug\netcoreapp3.1\ConsoleApp2sa.pdb
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\obj\Debug\netcoreapp3.1\ConsoleApp2sa.csprojAssemblyReference.cache
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\obj\Debug\netcoreapp3.1\ConsoleApp2sa.AssemblyInfoInputs.cache
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\obj\Debug\netcoreapp3.1\ConsoleApp2sa.AssemblyInfo.cs
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\obj\Debug\netcoreapp3.1\ConsoleApp2sa.csproj.CoreCompileInputs.cache
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\obj\Debug\netcoreapp3.1\ConsoleApp2sa.dll
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\obj\Debug\netcoreapp3.1\ConsoleApp2sa.pdb
+D:\Users\wxf\source\repos\ConsoleApp2sa\ConsoleApp2sa\obj\Debug\netcoreapp3.1\ConsoleApp2sa.genruntimeconfig.cache
