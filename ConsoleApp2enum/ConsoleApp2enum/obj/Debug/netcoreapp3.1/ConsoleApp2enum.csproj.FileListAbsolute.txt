@@ -1,0 +1,13 @@
+D:\index\ConsoleApp2enum\ConsoleApp2enum\bin\Debug\netcoreapp3.1\ConsoleApp2enum.exe
+D:\index\ConsoleApp2enum\ConsoleApp2enum\bin\Debug\netcoreapp3.1\ConsoleApp2enum.deps.json
+D:\index\ConsoleApp2enum\ConsoleApp2enum\bin\Debug\netcoreapp3.1\ConsoleApp2enum.runtimeconfig.json
+D:\index\ConsoleApp2enum\ConsoleApp2enum\bin\Debug\netcoreapp3.1\ConsoleApp2enum.runtimeconfig.dev.json
+D:\index\ConsoleApp2enum\ConsoleApp2enum\bin\Debug\netcoreapp3.1\ConsoleApp2enum.dll
+D:\index\ConsoleApp2enum\ConsoleApp2enum\bin\Debug\netcoreapp3.1\ConsoleApp2enum.pdb
+D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum.AssemblyInfoInputs.cache
+D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum.AssemblyInfo.cs
+D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum.csproj.CoreCompileInputs.cache
+D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum.dll
+D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum.pdb
+D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum.genruntimeconfig.cache
+D:\index\ConsoleApp2enum\ConsoleApp2enum\obj\Debug\netcoreapp3.1\ConsoleApp2enum.csprojAssemblyReference.cache

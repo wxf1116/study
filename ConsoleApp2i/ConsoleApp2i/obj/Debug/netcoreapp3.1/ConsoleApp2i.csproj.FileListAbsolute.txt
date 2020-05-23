@@ -1,0 +1,12 @@
+D:\index\ConsoleApp2i\ConsoleApp2i\bin\Debug\netcoreapp3.1\ConsoleApp2i.exe
+D:\index\ConsoleApp2i\ConsoleApp2i\bin\Debug\netcoreapp3.1\ConsoleApp2i.deps.json
+D:\index\ConsoleApp2i\ConsoleApp2i\bin\Debug\netcoreapp3.1\ConsoleApp2i.runtimeconfig.json
+D:\index\ConsoleApp2i\ConsoleApp2i\bin\Debug\netcoreapp3.1\ConsoleApp2i.runtimeconfig.dev.json
+D:\index\ConsoleApp2i\ConsoleApp2i\bin\Debug\netcoreapp3.1\ConsoleApp2i.dll
+D:\index\ConsoleApp2i\ConsoleApp2i\bin\Debug\netcoreapp3.1\ConsoleApp2i.pdb
+D:\index\ConsoleApp2i\ConsoleApp2i\obj\Debug\netcoreapp3.1\ConsoleApp2i.AssemblyInfoInputs.cache
+D:\index\ConsoleApp2i\ConsoleApp2i\obj\Debug\netcoreapp3.1\ConsoleApp2i.AssemblyInfo.cs
+D:\index\ConsoleApp2i\ConsoleApp2i\obj\Debug\netcoreapp3.1\ConsoleApp2i.csproj.CoreCompileInputs.cache
+D:\index\ConsoleApp2i\ConsoleApp2i\obj\Debug\netcoreapp3.1\ConsoleApp2i.dll
+D:\index\ConsoleApp2i\ConsoleApp2i\obj\Debug\netcoreapp3.1\ConsoleApp2i.pdb
+D:\index\ConsoleApp2i\ConsoleApp2i\obj\Debug\netcoreapp3.1\ConsoleApp2i.genruntimeconfig.cache

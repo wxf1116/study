@@ -1,0 +1,12 @@
+D:\index\ConsoleApp2switch\ConsoleApp2switch\bin\Debug\netcoreapp3.1\ConsoleApp2switch.exe
+D:\index\ConsoleApp2switch\ConsoleApp2switch\bin\Debug\netcoreapp3.1\ConsoleApp2switch.deps.json
+D:\index\ConsoleApp2switch\ConsoleApp2switch\bin\Debug\netcoreapp3.1\ConsoleApp2switch.runtimeconfig.json
+D:\index\ConsoleApp2switch\ConsoleApp2switch\bin\Debug\netcoreapp3.1\ConsoleApp2switch.runtimeconfig.dev.json
+D:\index\ConsoleApp2switch\ConsoleApp2switch\bin\Debug\netcoreapp3.1\ConsoleApp2switch.dll
+D:\index\ConsoleApp2switch\ConsoleApp2switch\bin\Debug\netcoreapp3.1\ConsoleApp2switch.pdb
+D:\index\ConsoleApp2switch\ConsoleApp2switch\obj\Debug\netcoreapp3.1\ConsoleApp2switch.AssemblyInfoInputs.cache
+D:\index\ConsoleApp2switch\ConsoleApp2switch\obj\Debug\netcoreapp3.1\ConsoleApp2switch.AssemblyInfo.cs
+D:\index\ConsoleApp2switch\ConsoleApp2switch\obj\Debug\netcoreapp3.1\ConsoleApp2switch.csproj.CoreCompileInputs.cache
+D:\index\ConsoleApp2switch\ConsoleApp2switch\obj\Debug\netcoreapp3.1\ConsoleApp2switch.dll
+D:\index\ConsoleApp2switch\ConsoleApp2switch\obj\Debug\netcoreapp3.1\ConsoleApp2switch.pdb
+D:\index\ConsoleApp2switch\ConsoleApp2switch\obj\Debug\netcoreapp3.1\ConsoleApp2switch.genruntimeconfig.cache
