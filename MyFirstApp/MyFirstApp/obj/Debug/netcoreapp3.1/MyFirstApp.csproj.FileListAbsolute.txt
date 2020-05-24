@@ -1,0 +1,13 @@
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.exe
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.deps.json
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.runtimeconfig.json
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.runtimeconfig.dev.json
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.dll
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.pdb
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.csprojAssemblyReference.cache
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.AssemblyInfoInputs.cache
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.AssemblyInfo.cs
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.dll
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.pdb
+D:\Users\wxf\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.genruntimeconfig.cache
