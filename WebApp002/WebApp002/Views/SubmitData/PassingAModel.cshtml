@@ -1,0 +1,26 @@
+﻿@using WebApp002.Models;
+@model IEnumerable<Menu1>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PassingAModel</title>
+</head>
+<body>
+    <div>
+        
+        <ul>
+            @foreach (var item in Model)
+            {
+                <li>@item.Text</li>
+            }
+        </ul>
+        
+    </div>
+</body>
+</html>

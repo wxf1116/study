@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <header>
+        <h1>ASP.NET MVC Sample App</h1>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                @Html.ActionLink("PassingAModel", "PassingAModel", "SubmitData")
+            </li>
+            <li>
+                @Html.ActionLink("PassingData", "PassingData", "SubmitData")
+            </li>
+            <li>
+                @Html.ActionLink("form", "CreateMenu", "SubmitData")
+            </li>
+        </ul>
+    </nav>
+    <div>
+        
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>Sample code for Professional C#</footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
