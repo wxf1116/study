@@ -8,33 +8,30 @@
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 </head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                @Html.ActionLink("应用程序名称", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("主页", "Index", "Home", new { area = "" }, null)</li>
-                    <li>@Html.ActionLink("API", "Index", "Help", new { area = "" }, null)</li>
-                </ul>
-            </div>
-        </div>
+    <header>
+        <h1>ASP.NET MVC Sample App</h1>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                @Html.ActionLink("PassingAModel", "PassingAModel", "SubmitData")
+            </li>
+            <li>
+                @Html.ActionLink("PassingData", "PassingData", "SubmitData")
+            </li>
+            <li>
+                @Html.ActionLink("form", "CreateMenu", "SubmitData")
+            </li>
+        </ul>
+    </nav>
+    <div>
+        
     </div>
-    <div class="container body-content">
+    <div>
         @RenderBody()
-        <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - 我的 ASP.NET 应用程序</p>
-        </footer>
     </div>
+    <footer>Sample code for Professional C#</footer>
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")

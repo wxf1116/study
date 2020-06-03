@@ -1,0 +1,28 @@
+﻿@using WebApp002.Models;
+@using System.Collections.Generic;
+@model List<Menu1> 
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    string name = "Angela";
+
+}
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PassingData</title>
+</head>
+<body>
+    <div>
+        @ViewBag.MyData
+        @(name)Stephanie
+        @ViewBag.Info
+    </div>
+</body>
+</html>

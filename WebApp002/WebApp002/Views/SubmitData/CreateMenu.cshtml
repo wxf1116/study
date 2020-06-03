@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "CreateMenu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>CreateMenu</h2>
+
+<form action="@Url.Action("CreateMenu","SubmitData")" method="post">
+    <fieldset>
+        <legend>Menu</legend>
+        <div>Id:</div>
+        <input name="id" />
+        <div>Text:</div>
+        <input name="name" />
+        <div>Price:</div>
+        <input name="price" />
+        <div>Category</div>
+        <input name="category" />
+        <div></div>
+        <button type="submit">提交</button>
+    </fieldset>
+</form>
+
