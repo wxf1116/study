@@ -1,0 +1,36 @@
+﻿@{ Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+
+@using StudentTable.Models
+
+@model IEnumerable<StudentModel>
+
+<div class="panel panel-default">
+    <!-- Default panel contents -->
+    <div class="panel-heading">学生表</div>
+    <input type="button" value=" 增加" onclick="location.href='@Url.Action("Add","Home")'" />
+    <input type="button" value=" 修改" onclick="location.href='@Url.Action("Update","Home")'" />
+    <input type="button" value=" 删除" onclick="location.href='@Url.Action("Delete","Home")'" />
+    <!-- Table -->
+    <table class="table">
+        <tr>
+            <td>学号</td>
+            <td>姓名</td>
+            <td>性别</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.name</td>
+                <td>@item.sex</td>
+            </tr>
+        }
+    </table>
+</div>
+
+<script>
+    function link() {
+        
+    }
+</script>

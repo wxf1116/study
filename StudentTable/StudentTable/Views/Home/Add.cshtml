@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>增加</h2>
+<div>
+    <form action="@Url.Action("Add","Home")" method="post">
+        <fieldset>
+            <legend>学生表</legend>
+            <div>*name:</div>
+            <input name="name" />
+            <div>*sex:</div>
+            <input name="sex" />
+            <div></div>
+            <button type="submit">提交</button>
+        </fieldset>
+    </form>
+</div>
