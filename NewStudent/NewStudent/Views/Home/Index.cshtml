@@ -1,0 +1,29 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using NewStudent.Models;
+
+@model IEnumerable<StudentMod>
+
+<div class="panel panel-default">
+    <!-- Default panel contents -->
+    <div class="panel-heading">Panel heading</div>
+    <input type="button" value="+" onclick="location.href = '@Url.Action("Add","Home")'"  />
+    <!-- Table -->
+    <table class="table">
+        <tr style="font-weight:bold">
+            <td>学号</td>
+            <td>姓名</td>
+            <td>班级</td>
+        </tr>
+        @foreach(var i in Model)
+        {
+            <tr>
+                <td>@i.Id</td>
+                <td>@i.Name</td>
+                <td>@i.Class</td>
+            </tr>
+        }
+    </table>
+</div>
